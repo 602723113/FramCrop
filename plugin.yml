@@ -1,0 +1,5 @@
+name: FarmCrop
+main: cc.zoyn.farmcrop.FarmCrop
+version: 1.0
+depend: [Residence]
+author: Zoyn
